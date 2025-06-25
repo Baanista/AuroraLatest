@@ -1,0 +1,42 @@
+6/20/2025 12:29:47 AM - AuroraPatch - Info: AuroraPatch logger initialized
+6/20/2025 12:29:47 AM - AuroraPatch - Info: Found Aurora at Z:\Users\nicholasmaloney\Aurora1130Full2\Aurora.exe
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Loading patches from Z:\Users\nicholasmaloney\Aurora1130Full2\Patches
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Looking for assemblies in Z:\Users\nicholasmaloney\Aurora1130Full2\Patches\Lib
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly EntityFramework.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly EntityFramework.SqlServer.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly Lib.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly System.Data.SQLite.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly System.Data.SQLite.EF6.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly System.Data.SQLite.Linq.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Looking for assemblies in Z:\Users\nicholasmaloney\Aurora1130Full2\Patches\ResizeWindows
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Looking for assemblies in Z:\Users\nicholasmaloney\Aurora1130Full2\Patches\Theme
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly SolarisTheme.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Looking for assemblies in Z:\Users\nicholasmaloney\Aurora1130Full2\Patches\ThemeCreator
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found asembly ThemeCreator.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly EntityFramework.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly EntityFramework.SqlServer.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly Lib.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found patch Lib
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly System.Data.SQLite.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly System.Data.SQLite.EF6.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly System.Data.SQLite.Linq.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly SolarisTheme.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found patch CristoTheme
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Trying to retrieve types from assembly ThemeCreator.dll
+6/20/2025 12:29:50 AM - AuroraPatch - Info: Found patch ThemeCreator
+6/20/2025 12:31:33 AM - AuroraPatch - Info: Loading Aurora Z:\Users\nicholasmaloney\Aurora1130Full2\Aurora.exe with checksum chm1c7
+6/20/2025 12:31:33 AM - AuroraPatch - Info: Assembly FullName: Aurora, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+6/20/2025 12:31:33 AM - AuroraPatch - Info: Running Loaded
+6/20/2025 12:31:33 AM - AuroraPatch - Info: Load patch Lib
+6/20/2025 12:31:36 AM - AuroraPatch - Info: Load patch ThemeCreator
+6/20/2025 12:31:36 AM - AuroraPatch - Info: Patch ThemeCreator: Loading ThemeCreator...
+6/20/2025 12:31:36 AM - AuroraPatch - Info: Load patch CristoTheme
+6/20/2025 12:31:36 AM - AuroraPatch - Info: Done running Loaded
+6/20/2025 12:31:36 AM - AuroraPatch - Info: Starting Aurora
+6/20/2025 12:31:36 AM - AuroraPatch - Info: TacticalMap found: jt
+Native library pre-loader is trying to load native SQLite library "Z:\Users\nicholasmaloney\Aurora1130Full2\x64\SQLite.Interop.dll"...
+6/20/2025 12:31:53 AM - AuroraPatch - Info: Running Started
+6/20/2025 12:31:53 AM - AuroraPatch - Info: Started patch Lib
+6/20/2025 12:31:53 AM - AuroraPatch - Info: Started patch ThemeCreator
+6/20/2025 12:31:53 AM - AuroraPatch - Info: Started patch CristoTheme
+6/20/2025 12:31:53 AM - AuroraPatch - Info: Done running Started
